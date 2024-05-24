@@ -1,0 +1,28 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+    padding: 5%;
+    width: auto;
+    margin: auto;
+}
+
+.conteudo{
+    width: auto;
+}
+body{
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+footer{
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lista{
+    list-style: none;
+}
